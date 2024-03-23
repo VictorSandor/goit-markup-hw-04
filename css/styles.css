@@ -76,6 +76,7 @@ a {
   padding: 120px 0px 120px 0px;
 }
  
+/* =============header==================== */
 
 .page-header {
   /* border-bottom: 1px solid #e7e9fc - рамка кольор*/
@@ -181,13 +182,14 @@ a {
   color: #404BBF;
 }
 
+/* ============== */
 
-
-
+/* ======================hero================= */
 
 
 .box {
   background: #2e2f42;
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero.jpg);
   padding-top: 188px;
   padding-bottom: 188px;
 }
@@ -279,6 +281,10 @@ button {
   color: #434455;
 }  
 
+/* ========================= */
+
+/* ========================team==================== */
+
 .team {
   background-color: #F4F4FD;
   padding-top: 120px;
@@ -335,6 +341,10 @@ button {
   color: #434455;
 }
 
+/* ======================= */
+
+/* ==================portfolio==================== */
+
 .portfolio {
   background-color: #ffffff;
   padding: 120px 0px 120px 0px;
@@ -388,6 +398,10 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/* ==================== */
+
+/* ========================footer================= */
 
 .page-footer {
   background-color: #2e2f42;
